@@ -27,6 +27,12 @@
 //targetTimer: target timer, if it is null, it will not be bound.
 //loopInterval: loop period, milliseconds, integer unit, if it is 0, it will not loop.
 
+//https://github.com/HaoJun0823/Javascript-Plugins/
+//https://blog.haojun0823.xyz/
+//V0.01
+//Auhtor:Haojun0823
+//Create Date:2021/04/25 (GMT+8）
+//MIT
 
 function SimpleDateTimer(startTime, endTime, callback, targetTimer, loopInterval) {
 	try {
